@@ -29,7 +29,7 @@ Rotation - `Space`.
 
 Program library code located in the `src/brick_game/tetris` folder.
 Program interface code located in the `src/gui/cli` folder.
-Installation directory `src/install`.
+Installation directory: `src/install`.
 
 Makefile targets: 
 
@@ -51,7 +51,7 @@ Makefile targets:
 
 `tetris.a` - compiles static Tetris library;
 
-`play` - launches the game;
+`play` - launches the game.
 
 ## Project requirements
 
