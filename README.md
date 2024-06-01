@@ -55,7 +55,7 @@ Makefile targets:
 
 ## Project requirements
 
-Insall the ncurses library.
+Install the ncurses library.
 
 `sudo apt-get install libncurses5-dev`
 
