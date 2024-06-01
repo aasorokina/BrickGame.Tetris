@@ -3,11 +3,11 @@ Implementation Tetris game in C with console interface (using ncurses library)
 
 ## Project description
 
-![Tetris](../misc/images/tetris_view.png) 
+![Tetris](misc/images/tetris_view.png) 
 
 The project consist of two parts for implementing the Tetris game: a library that implements the game's logic, which can be connected to various GUIs in the future, and a terminal interface, created using ncurses library. The logic of the library implemented using finite-state machine:
 
-![Tetris finite-state machine](../misc/images/fsm_tetris.png)
+![Tetris finite-state machine](misc/images/fsm_tetris.png)
 
 ### Controls:
 
